@@ -1,0 +1,11 @@
+# Defense-in-depth: raw data and verbatim-transcript outputs never leave this machine.
+# This staging copy was built by whitelist copy (2026-10-13); these rules guard
+# against anything added later.
+data/
+*.csv
+__pycache__/
+*.pyc
+results/06_error_analysis.md
+results/07_same_word_contexts.md
+results/oof_bert.csv
+results/oof_tfidf.csv
