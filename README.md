@@ -102,3 +102,9 @@ If you use the underlying dataset, please cite the source:
 ```
 
 Analysis code in this repository: MIT License.
+
+## AI assistance disclosure
+
+Analysis code in this repository was developed with assistance from Claude
+(Anthropic); research questions, analysis decisions, and interpretation are
+my own.
